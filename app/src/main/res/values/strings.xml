@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">FirebasePhoneAuth</string>
+    <string name="auth_intent">Auth Intent</string>
+</resources>
